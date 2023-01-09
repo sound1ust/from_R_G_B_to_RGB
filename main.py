@@ -3,6 +3,7 @@ from skimage import img_as_float
 from numpy import roll
 
 
+# a correlation for color channels
 def correlation(channel, g, axis):
     crl = 0
     for i in range(-15, 15):
