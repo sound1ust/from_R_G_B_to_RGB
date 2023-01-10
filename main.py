@@ -15,7 +15,7 @@ def correlation(channel, g, axis):
     return num
 
 
-# test comment
+# test comment 1
 def align(img, g_coord):
     img = img_as_float(img)
     shape = img.shape
