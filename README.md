@@ -1,6 +1,6 @@
 # from_R_G_B_to_RGB
 
-The utility that allows user to combine three color channels (r, g, b) from a camera roll scan to one colored image
+The utility that allows user to combine three color channels (r, g, b) from a scan of a camera roll to one colored image
 
 
 Camera roll scan is input
